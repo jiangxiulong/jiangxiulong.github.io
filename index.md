@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I am proficient in all kinds of **Hello world**.
-
 [About me](./another-page.html).
+
+I am proficient in all kinds of **Hello world**.
 
 ### C
 
