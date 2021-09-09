@@ -6,7 +6,7 @@ I am proficient in all kinds of **Hello world**.
 
 [About me](./another-page.html).
 
-### JS
+### C
 
 ```C
 #include <stdio.h>
@@ -15,12 +15,16 @@ int main(void) {
 }
 ```
 
+### C++
+
 ```C++
 #include <iostream>
 int main(void) {
     std::cout<<"Hello World!";
 }
 ```
+
+### Java
 
 ```Java
 public class HelloWorld {
@@ -30,15 +34,21 @@ public class HelloWorld {
 }
 ```
 
+### PHP
+
 ```PHP
 <?php
     echo "Hello World!";
 ?>
 ```
 
+### Ruby
+
 ```Ruby
 puts "Hello World!"
 ```
+
+### Go
 
 ```Go
 package main
@@ -50,6 +60,8 @@ func main(){
 }
 ```
 
-```js
+### JS
+
+```JS
 console.log("Hello World!");
 ```
