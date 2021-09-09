@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: About me
+description: PHP Software Development Engineer
 ---
 
 ## Welcome to another page
-
-_yay_
 
 [back](./)
