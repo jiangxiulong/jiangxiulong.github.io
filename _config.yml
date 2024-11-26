@@ -2,7 +2,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Jiang xiulong blog
-description: I am a new generation of migrant workers, I am proud.
+title: 姜秀龙
+description: Jiang xiulong blog
 show_downloads: false
 google_analytics:
